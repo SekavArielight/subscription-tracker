@@ -33,6 +33,7 @@ const subscriptionSchema = new mongoose.Schema(
         "technology",
         "finance",
         "politics",
+        "education",
         "other",
       ],
       required: true,
